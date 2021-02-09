@@ -17,7 +17,7 @@ acrescentada ao preço final do produto.
 
 [Modelo de saída proposto]
 
-Enter the number of products: 3
+Enter the number of products: 3.
 Product #1 data:
 Common, used or imported (c/u/i)? i
 Name: Tablet
